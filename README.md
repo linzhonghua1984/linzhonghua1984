@@ -1,4 +1,5 @@
 ### Hi there 👋
+I work at Guangxi Normal University as a teacher, specializing in computer science and programming algorithms.
 
 <!--
 **linzhonghua1984/linzhonghua1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
